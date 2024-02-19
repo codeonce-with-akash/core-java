@@ -7,6 +7,7 @@ public class DemonstratingJoinMethodTest {
 		DemonstratingJoinMethod r = new DemonstratingJoinMethod();
 		Thread t = new Thread(r);
 		t.start();
+		//CASE#1 main Thread calling join() method
 		t.join(3000);
 		for (int i = 1; i <= 5; i++) {
 			System.out.println("Main Thread - " + i);
