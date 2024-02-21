@@ -1,0 +1,9 @@
+package dev.codeonce.mt;
+
+public class DemonstratingJoinMethod implements Runnable {
+
+	public void run() {
+		System.out.println("Child Thread - ");
+	}
+	
+}

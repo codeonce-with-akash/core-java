@@ -1,0 +1,10 @@
+package dev.codeonce.mt;
+
+public class DemonstratingSleepMethodCase3WithInterrupt implements Runnable{
+	public void run() {
+		for(int i = 1; i<=1000; i++) {
+			System.out.println("Slide - "+i);
+		}
+		Thread.sleep(2000);
+	}
+}

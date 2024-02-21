@@ -1,0 +1,5 @@
+package dev.codeonce.mt.test;
+
+public class GettingAndSettingThreadNameTest {
+
+}

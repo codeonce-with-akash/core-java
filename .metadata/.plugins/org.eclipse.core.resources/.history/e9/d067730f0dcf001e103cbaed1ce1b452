@@ -1,0 +1,10 @@
+package dev.codeonce.mt.test;
+
+import dev.codeonce.mt.DemonstratingJoinMethod;
+
+public class DemonstratingJoinMethodTest {
+	public static void main(String[] args) {
+		DemonstratingJoinMethod r = new DemonstratingJoinMethod();
+		Thread t = new Thread(r);
+	}
+}

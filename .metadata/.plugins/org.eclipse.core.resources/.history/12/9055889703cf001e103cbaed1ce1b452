@@ -1,0 +1,8 @@
+package dev.codeonce.mt.test;
+
+public class GettingAndSettingThreadNameTest {
+	
+	public static void main(String[] args) {
+		
+	}
+}

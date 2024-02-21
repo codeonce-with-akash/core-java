@@ -1,0 +1,7 @@
+package dev.codeonce.mt.test;
+
+public class GettingAndSettingThreadNameTest {
+	public static void main(String[] args) {
+		System.out.println("Main Thread Name - "+Thread.currentThread().getName());
+	}
+}

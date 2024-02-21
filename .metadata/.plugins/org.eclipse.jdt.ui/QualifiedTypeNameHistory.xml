@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dev.sky.thread.test.MyThread01Test"/>
+    <fullyQualifiedTypeName name="dev.sky.thread.job.MyThread01"/>
+    <fullyQualifiedTypeName name="dev.sky.thread.job.MyRunnable"/>
+    <fullyQualifiedTypeName name="dev.sky.thread.job.MyThread4ThreadPriority"/>
+    <fullyQualifiedTypeName name="dev.sky.thread.job.MyThread4YieldMethod"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="dev.codeonce.mt.DefiningThreadUsingTread"/>
+    <fullyQualifiedTypeName name="dev.codeonce.mt.DefiningThreadUsingRunnable"/>
+    <fullyQualifiedTypeName name="dev.codeonce.mt.GettingAndSettingThreadName"/>
+    <fullyQualifiedTypeName name="dev.codeonce.mt.GettingAndSettingThreadPriorities"/>
+    <fullyQualifiedTypeName name="dev.codeonce.mt.DemonstratingYieldMethod"/>
+    <fullyQualifiedTypeName name="dev.codeonce.mt.DemonstratingJoinMethod"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="dev.codeonce.mt.DemonstratingJoinMethodCase2"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>
